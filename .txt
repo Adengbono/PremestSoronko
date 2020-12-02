@@ -1,0 +1,3 @@
+Username = rebecca
+Password = qwerty123
+Db connection = mongodb+srv://rebecca:<password>@cluster0.jgjmp.mongodb.net/<dbname>  

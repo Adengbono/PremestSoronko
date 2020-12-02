@@ -1,0 +1,7 @@
+#node module folder
+
+node_modules/
+
+#private files
+.env
+ 
